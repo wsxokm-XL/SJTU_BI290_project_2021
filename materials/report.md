@@ -175,6 +175,16 @@ https://www.cnblogs.com/zwfymqz/p/8413523.html#_label4
 
 
 
+# group work：
+
+版本1.1、后缀数组和LCP算法：唐志轩
+
+版本更新1.2、1.3，开题报告，小组展示：余文韬
+
+文献搜寻、程序检查和算法优化、report：刘澄
+
+
+
 # 源代码：
 
 ```c
